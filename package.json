@@ -1,0 +1,12 @@
+{
+  "name": "forma-portfolio-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A considered, bilingual portfolio template. Plain HTML, CSS and JavaScript.",
+  "license": "MIT",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
